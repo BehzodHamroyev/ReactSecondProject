@@ -1,0 +1,7 @@
+.link a{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: rgb(255, 255, 254) !important;
+    margin-left: 12px;
+    font-size: 20px;
+}
