@@ -21,7 +21,7 @@ const data = [
 
 
 function Clients() {
-    return <div className="Clients">
+    return <div className="Clients ">
         <div className="row container-fluid">
             {
             data.map((v, i) => {

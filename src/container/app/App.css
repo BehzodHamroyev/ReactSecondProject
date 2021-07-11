@@ -2,3 +2,24 @@
     background-color:#252B42 ;
     height: auto;
 }
+::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #252B42; 
+    border-radius: 6px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(28, 208, 214); 
+    border-radius: 6px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(28, 208, 214); 
+    border-radius: 6px;
+  }

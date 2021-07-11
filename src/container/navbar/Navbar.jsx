@@ -40,7 +40,7 @@ class Navbar extends React.Component {
     }
     render() {
         return (
-            <div className="Navbar container-fluid  px-5 py-3 d-flex justify-content-between flex-wrap align-items-center">
+            <div className="Navbar shadow container-fluid  px-5 py-3 d-flex justify-content-between flex-wrap align-items-center">
                 <div className="d-flex align-items-center">
                     <div>
                         <a href="#">

@@ -8,7 +8,7 @@ function Button() {
         <div className="d-flex">
             <button className="btn btn-outline-info mr-3">Log In</button>
             <button className="btn  btn-info text-white mr-2 d-flex align-items-center justify-content-around">Become a member
-                <FontAwesomeIcon icon={faArrowRight}/></button>
+                <FontAwesomeIcon className="ml-2" icon={faArrowRight}/></button>
         </div>
     )
 }

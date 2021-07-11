@@ -2,6 +2,10 @@
 .Navbar{
 background-color: #252B42;
 overflow-x: hidden;
+top: 0;
+left: 0;
+position: fixed;
+z-index: 1200000;
 }
 .logo{
     width: 80px;

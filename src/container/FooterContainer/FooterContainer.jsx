@@ -21,12 +21,12 @@ class Footer extends React.Component {
         return (
             <div className="ContacContainer container-fluid">
                 <div className="row container">
-                    <div className="col-md-2 cardFooter col-sm-6 col-12">
+                    <div className="col-md-2 col-sm-6 col-12">
                         <p className="text-white">Company Info</p>
                         <a href="#" className=" text-start">www.company</a>
                         <a href="#" className=" text-start">companyna</a>
-                        <a href="#" className=" text-start">Phone: +7 485-118-03-25</a>
-                        <a href="#" className=" text-start">Phone: +7 485-118-03-25</a>
+                        <a href="#" className=" text-start">Phone: +7 485-118</a>
+                        <a href="#" className=" text-start">Phone: +7 485-118</a>
                     </div>
 
                     <div className="  cardFooter col-md-2 col-sm-6 col-12">
@@ -54,7 +54,9 @@ class Footer extends React.Component {
                         <div className="form d-flex mt-2">
                             <input type="text" className='input' placeholder="your email"/>
                             <button type="submit" className="btn btn-outline-success text-white">Submit</button>
+
                         </div>
+
                     </div>
                 </div>
             </div>

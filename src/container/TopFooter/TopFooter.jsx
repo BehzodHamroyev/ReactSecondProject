@@ -9,13 +9,13 @@ function TopFooter() {
     return (
         <div className="topFooter w-100 container ">
             <div className="row  d-flex justify-content-betweent align-items-center">
-                <div className="col-md-6 mb-3">
+                <div className="col-6 mb-3">
                     <a href="#">
                         <img className="logo"
                             src={Logo}
                             alt=""/></a>
                 </div>
-                <div className="col-md-6 mb-3 d-flex justify-content-end align-items-center">
+                <div className="col-6 mb-3 d-flex justify-content-end align-items-center">
                     <div className="d-flex">
                         <a href="https://www.facebook.com/"><img className='mr-2'
                                 src={Facebook}
