@@ -45,13 +45,13 @@ class Navbar extends React.Component {
                     <div>
                         <a href="#">
                             <img src={Logo}
-                                className="logo mr-5"
+                                className="logo"
                                 alt=""/></a>
                     </div>
                     {
                     data.map((v) => {
                         return (
-                            <div className="link d-none d-lg-block"
+                            <div className="link ml-3 d-none d-lg-block"
                                 key={
                                     v.title
                             }>
