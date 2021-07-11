@@ -1,0 +1,8 @@
+.myCard{
+display: flex;
+align-items: flex-start;
+justify-content: space-between;
+border: 1px solid grey;
+padding: 40px;
+margin-top: 30px;
+}

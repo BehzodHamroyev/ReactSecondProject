@@ -1,0 +1,28 @@
+.Price{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+
+}
+
+.priceMonth{
+    font-size: 45px;
+}
+.updates{
+    width: 100%;
+    color: black;
+    display: flex;
+    margin-top: 10px;
+    
+}
+span{
+    display: flex;
+    width: 30px !important;
+    height: 30px !important;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+
+}

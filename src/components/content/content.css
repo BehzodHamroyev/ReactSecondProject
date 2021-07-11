@@ -1,3 +1,6 @@
+.content{
+    overflow-x: hidden;
+}
 
 .content .col-12{
     width: 100%;

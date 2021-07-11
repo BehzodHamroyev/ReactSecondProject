@@ -1,0 +1,24 @@
+.ContacContainer{
+    background-color: #252B42;
+    padding: 20px 0;
+    height: auto;
+} 
+.ContacContainer a{
+ text-decoration: none;
+ display: block;
+ color: white;
+}
+.ContacContainer .row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+.input{
+    border: none;
+    outline: none;
+    font-size: 20px;
+    border-radius: 5px;
+    padding-left: 5px;
+    
+}

@@ -1,6 +1,7 @@
 
 .Navbar{
 background-color: #252B42;
+overflow-x: hidden;
 }
 .logo{
     width: 80px;

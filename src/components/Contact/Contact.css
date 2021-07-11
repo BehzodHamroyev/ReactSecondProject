@@ -1,0 +1,21 @@
+.co-md-4{
+    overflow:hidden;
+}
+.contact{
+    transition: 1s linear;
+    background-color: white;
+    color: black;
+    padding: 20px;
+    margin-bottom: 20px;
+    overflow:hidden;
+}
+img{
+    width: 30px;
+}
+button{
+    color: white;
+}
+.contact:hover{
+    color: #23A6F0;
+    transform: scale(1.3);
+}
